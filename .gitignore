@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/KC_crack/0Harmony.dll
+/KC_crack/Assembly-CSharp.dll
+/KC_crack/BepInEx.dll
+/KC_crack/UnityEngine.CoreModule.dll
+/KC_crack/UnityEngine.dll
