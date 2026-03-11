@@ -8,7 +8,6 @@ public class KCCrackPlugin : BaseUnityPlugin
 {
     void Awake()
     {
-        // 1. 初始化 Harmony 补丁引擎
         var harmony = new Harmony("com.ppx.kc_crack");
         harmony.PatchAll();
 
